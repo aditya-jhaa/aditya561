@@ -1,2 +1,1 @@
-# aditya561
-Stock and Volatility Prediction
+# Stock and Volatility Prediction
