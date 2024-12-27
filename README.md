@@ -1,1 +1,0 @@
-# Stock and Volatility Prediction
